@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TemporerApp</string>
+    <string name="txtBienvenida">Hola!</string>
+    <string name="txtSaludoPrimeraVez">Bienvenid@! Cuál es tu nombre?</string>
+    <string name="txtBoxNombre">Ingrese su nombre aquí</string>
+    <string name="btnGuardarCosecha">Guardar la cosecha</string>
+    <string name="txtTusueldo">Tu ganancia en el mes es de:</string>
+    <string name="txtSueldoMensual">$0</string>
+    <string name="txtTuGanancia">Tu ganancia en esta semana es de:</string>
+    <string name="txtGananciaSemanal">$0</string>
+    <string name="txtPrimera">Hola! Se ve que es primera vez que usas la aplicación,
+        Por favor ingresa tu nombre y guarda los cambios</string>
+    <string name="btnVerMes">Ver Planilla del mes</string>
+    <string name="btnEditarMes">Editar un día</string>
+    <string name="txtAgregarCosecha">Agregar Cosecha de Hoy</string>
+    <string name="txtCuantosKilos">Cuántos kilos has cosechado hoy?</string>
+    <string name="txtindiqueFruta">Seleccione una fruta</string>
+    <string name="txtHoyEs">La fecha de hoy es:</string>
+    <string name="txtIngreseKg">Ingrese los kilos acá</string>
+    <string name="txtGananciaProvista">Tu ganancia de hoy es: </string>
+    <string name="txtRegFruta">Registre la fruta y su precio por kilo: </string>
+    <string name="txtNoFruta">Nombre de la fruta: </string>
+    <string name="txtPcFruta">Precio Kilo de la fruta: </string>
+    <string name="txtNoFrutaHint">Fruta </string>
+    <string name="txtPcFrutaHint">Precio por kilo </string>
+    <string name="txtIdFruta">Identificador : </string>
+    <string name="txtGananciaHoy">Tocar </string>
+    <string name="txtPlanil">Planilla de cosecha del mes </string>
+</resources>
